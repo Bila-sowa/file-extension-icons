@@ -10,4 +10,6 @@
 
 ## Usage
 
-<code><img src="https://raw.githubusercontent.com/Bila-sowa/file-extension-icons/main/icons/(file.extension).svg"></img></code>
+``` HTML
+<img src="https://raw.githubusercontent.com/Bila-sowa/file-extension-icons/main/icons/(file.extension).svg"></img>
+```

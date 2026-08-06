@@ -7,3 +7,9 @@
 * Color: white
 * Size: 24x24 px
 * Type: svg
+
+## Usage
+
+``` HTML
+<img src="https://raw.githubusercontent.com/Bila-sowa/file-extension-icons/main/icons/(file.extension).svg"></img>
+```

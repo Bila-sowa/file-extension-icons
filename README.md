@@ -4,12 +4,12 @@
 
 <h2>Characteristic</h2>
 
-* Color: white
+* Color: `#ffffff` / `#1f2328`
 * Size: 24x24 px
 * Type: svg
 
 ## Usage
 
 ``` HTML
-<img src="https://raw.githubusercontent.com/Bila-sowa/file-extension-icons/main/icons/(file.extension).svg"></img>
+<img src="https://raw.githubusercontent.com/Bila-sowa/file-extension-icons/main/icons-light/(.extension).svg"></img>
 ```
